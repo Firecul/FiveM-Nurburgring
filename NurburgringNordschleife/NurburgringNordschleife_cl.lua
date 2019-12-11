@@ -1,6 +1,6 @@
 -- PARAMETERS
 local NURBURGRING_MARKER_SIZE = 2.0
-local NURBURGRING_COORDS_GP = { x = 3680.0, y = -6520.0, z = 2191.0, heading = 135.0 }
+local NURBURGRING_COORDS_GP = { x = 3680.0, y = -6520.0, z = 1391.0, heading = 135.0 }
 local NURBURGRING_COORDS_DOCK = { x = 1170.5, y = -2978.93, z = 6.0, heading = 270.0 }
 
 -- Create preRace thread
